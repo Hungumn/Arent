@@ -1,0 +1,31 @@
+
+<svg width="363px" height="457px" viewBox="0 0 363 457" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo_blk" transform="translate(-97.000000, -50.000000)">
+            <g id="Group" transform="translate(97.320000, 50.000000)">
+                <polyline id="Path" stroke="#FFFFFF" stroke-width="13.86" stroke-linejoin="round" points="330.31 315.64 290.61 315.64 277.66 293.11 264.71 315.64 96.27 315.64 83.14 339.74 71.07 315.64 29.02 315.64"></polyline>
+                <polygon id="Path" stroke="#FFFFFF" stroke-width="13.02" stroke-linejoin="round" points="55.02 437.68 55.02 195.16 181.51 283.42 306.02 193.61 306.02 437.68 180.52 349.56"></polygon>
+                <line x1="181.56" y1="148.23" x2="181.45" y2="123.12" id="Path" stroke="#FFFFFF" stroke-width="20" stroke-linejoin="round"></line>
+                <path d="M181.51,14 C209.637862,14 232.44,36.8021377 232.44,64.93 C232.44,93.0578623 209.637862,115.86 181.51,115.86 C153.382138,115.86 130.58,93.0578623 130.58,64.93 C130.58,36.8021377 153.382138,14 181.51,14 M181.51,0 C145.650151,0 116.58,29.0701512 116.58,64.93 C116.58,100.789849 145.650151,129.86 181.51,129.86 C217.369849,129.86 246.44,100.789849 246.44,64.93 C246.40142,29.0861439 217.353856,0.0385803354 181.51,0 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M141.09,148.23 L221.93,148.23 C231.357501,148.23 239,155.872499 239,165.3 L239,380.19 C239,395.437296 232.943035,410.060102 222.161569,420.841569 C211.380102,431.623035 196.757296,437.68 181.51,437.68 L181.51,437.68 C166.262704,437.68 151.639898,431.623035 140.858431,420.841569 C130.076965,410.060102 124.02,395.437296 124.02,380.19 L124.02,165.3 C124.02,155.872499 131.662499,148.23 141.09,148.23 Z" id="Path" stroke="#FFFFFF" stroke-width="13.86" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="348.49" cy="315.65" r="13.5"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="13.5" cy="315.65" r="13.5"></circle>
+                <line x1="180.65" y1="233.14" x2="182.37" y2="397.08" id="Path" stroke="#FFFFFF" stroke-width="13.02" stroke-linejoin="round"></line>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="181.01" cy="231.94" r="13.5"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="181.01" cy="397.09" r="13.5"></circle>
+                <line x1="140.17" y1="69.38" x2="186.45" y2="23.1" id="Path" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="152.54" y1="81.75" x2="198.82" y2="35.46" id="Path" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="164.9" y1="94.11" x2="211.19" y2="47.83" id="Path" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="178.09" y1="107.3" x2="224.38" y2="61.02" id="Path" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="178.06" y1="23.06" x2="224.41" y2="69.42" id="Path" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="165.69" y1="35.43" x2="212.05" y2="81.78" id="Path" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="153.32" y1="47.79" x2="199.68" y2="94.15" id="Path" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="140.13" y1="60.98" x2="186.49" y2="107.34" id="Path" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="55.28" cy="195.52" r="19.44"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="54.92" cy="437.19" r="19.44"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="305.82" cy="193.74" r="19.44"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="306.17" cy="437.19" r="19.44"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
