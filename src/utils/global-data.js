@@ -16,6 +16,9 @@ import column6 from 'assets/images/column-6.jpg';
 import column7 from 'assets/images/column-7.jpg';
 import column8 from 'assets/images/column-8.jpg';
 
+import icon01 from 'assets/images/icon-01.png';
+import icon02 from 'assets/images/icon2.png';
+
 export const AppBarData = [
   {
     id: 1,
@@ -131,3 +134,47 @@ export const columnsData = [
     datetime: '2021.05.17   23:25',
   },
 ];
+
+export const IconTopPage = [
+  {
+    id: 1,
+    title: 'Morning',
+    thumbnail:icon01
+  },
+  {
+    id: 2,
+    title: 'Lunch',
+    thumbnail:icon01
+  },
+  {
+    id: 3,
+    title: 'Dinner',
+    thumbnail:icon01
+  },
+  {
+    id: 4,
+    title: 'Snack',
+    thumbnail:icon02
+  },
+];
+
+const REQUIRE_TEXT = 'は必須入力項目です。';
+const VALID_TEXT = 'の入力形式に誤りがあります。';
+
+export const REQUIRE = {
+	email: 'メールアドレス' + REQUIRE_TEXT,
+	valid_email: 'メールアドレス' + VALID_TEXT,
+	password: 'パスワード' + REQUIRE_TEXT,
+	password_min: 'パスワードは8文字以上でなければなりません',
+	verify_code: 'コードを確認する' + REQUIRE_TEXT,
+	name: '氏名' + REQUIRE_TEXT,
+	tel: '電話番号' + REQUIRE_TEXT,
+	gender: '性別' + REQUIRE_TEXT,
+	valid_tel: '電話番号' + VALID_TEXT,
+	tel_max: '半角数字11文字以内で入力してください。',
+};
+
+export const dataTest = {
+  email:'admin@admin.com',
+  password:'12345678'
+}

@@ -3,8 +3,6 @@ import logoVertical from 'assets/images/CLB-logo-vertical.png';
 import NextLink from 'next/link';
 import { FooterLink } from 'utils/global-data';
 
-const isProduction = process.env.NEXT_PUBLIC_ENV === 'production';
-
 export const FooterLayout = () => {
 	return (
 		<>
